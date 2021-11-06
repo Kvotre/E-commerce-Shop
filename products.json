@@ -1,0 +1,77 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Spark plugs",
+          "price": 12.99,
+          "brand": "Bosh",
+          "image": { "fields": { "file": { "url": "https://cdn.autodoc.de/thumb?id=7428602&m=1&n=0&lng=ro&ccf=94077821" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Car Battery Varta",
+          "price": 119.99,
+          "brand": "Varta",
+          "image": { "fields": { "file": { "url": "https://www.autokarma.ro/image/cache/catalog/Produse/varta/5701440643122-256x230.JPG" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Summer Tires",
+          "price": 399.99,
+          "brand": "Continental",
+          "image": { "fields": { "file": { "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGl5gtm3ADad5x8TKoSws_GPv-_NghY0QKnA&usqp=CAU" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Steering Wheel",
+          "price": 149.99,
+          "brand": "Momo",
+          "image": { "fields": { "file": { "url": "https://www.oreca-store.com/media/catalog/product/m/o/momo-steering-wheel-model-78-leather-o-350-mm-0.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Windscreen Wipers",
+          "price": 8.99,
+          "brand": "Bosh",
+          "image": { "fields": { "file": { "url": "https://ae01.alicdn.com/kf/HTB1H9BCQG6qK1RjSZFmq6x0PFXaG/1pcs-lot-BOSCH-Car-AEROFIT-Windscreen-Wipers-Windshield-Wiper-Blades-U-type-Universal-U-Hook.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Winter Tires",
+          "price": 349.99,
+          "brand": "Michelin",
+          "image": { "fields": { "file": { "url": "https://sysx-legacy.sfo2.cdn.digitaloceanspaces.com/retail/uploads/winter-tires2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Oil Filter",
+          "price": 5.99,
+          "brand": "Mann",
+          "image": { "fields": { "file": { "url": "https://www.autokarma.ro/image/cache/catalog/Produse/mann-filter/W71275-256x230.JPG" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Brake Pads",
+          "price": 59.99,
+          "brand": "SBP",
+          "image": { "fields": { "file": { "url": "https://www.epiesa.ro/produse_2020_4/4699/07-P29108_1.JPG" } } }
+        }
+      }
+    ]
+  }
+  
